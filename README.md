@@ -1,17 +1,16 @@
-# humanGastruloids_shapeDescriptors
+## humanGastruloids_shapeDescriptors
 
-## Code written and developed by Alexandra Baranowski
-## University of Cambridge
-## Prof Alfonso Martinez Arias and Dr Naomi Moris
-## Copyright 2020 Alexandra Baranowski
+Code written and developed by Alexandra Baranowski
+University of Cambridge
+Prof Alfonso Martinez Arias and Dr Naomi Moris
+Copyright 2020 Alexandra Baranowski
 
-# This code is to be implemented in Python
-# we used Python 3.6
+This code is to be implemented in Python. We used Python 3.6
 
 ## Preparing Images
-# In order to run the code, widefield images must be prepared in the correct format
-# and with the correct file system in place. 
-# We use Fiji software to process microscope images:
+In order to run the code, widefield images must be prepared in the correct format
+and with the correct file system in place. 
+We use Fiji software to process microscope images:
 
 1.	Create 3 new folders in the same folder as the images are saved, and name them ‘8bit Ch1’, ‘8bit Ch2’ etc 
       #(until Ch4 in this case, because we have 3 fluorescent channels and brightfield)
