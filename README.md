@@ -1,8 +1,11 @@
 ## humanGastruloids_shapeDescriptors
 
 Code written and developed by Alexandra Baranowski
+
 University of Cambridge
+
 Prof Alfonso Martinez Arias and Dr Naomi Moris
+
 Copyright 2020 Alexandra Baranowski
 
 This code is to be implemented in Python. We used Python 3.6
